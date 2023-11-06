@@ -11,7 +11,7 @@
 
 ###
 
-<img align="left" height="100" src="https://media.licdn.com/dms/image/D4D03AQF6qa4fevkJaQ/profile-displayphoto-shrink_800_800/0/1698224300375?e=1703721600&v=beta&t=UrbIBXyfwS0LepnB-xtjTeKve4LqJHkORtgN10BRFLA"  />
+<img align="left" height="100" src="https://media.licdn.com/dms/image/D4D03AQE4bgtU7QyYMg/profile-displayphoto-shrink_800_800/0/1699212361656?e=1704931200&v=beta&t=StICEyjBaQF_94Gzqr41dhiATospbAEg_IPKIThrp6Y"  />
 
 ###
 
