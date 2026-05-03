@@ -1,13 +1,10 @@
-<h2 align="left">Hi there 👋 I'm Hassan Shahzad . Web Developer</h2>
+<h2 align="left">Hi there 👋 I'm Hassan Shahzad . Backend Engineer | Laravel Specialist</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chassanshahzad/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://Instagram.com/techcoderlab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ee2a7b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
@@ -17,7 +14,9 @@
 
 ###
 
-<p align="left">A passionate full-stack web developer with expertise in Frontend technologies i.e. Html, CSS, Javascript, Bootstrap, and Backend technologies i.e Php, Laravel, Node.js.<br><br>Always look forward to learning new technologies and collaborating with others.<br><br>Any freelance work? do reach out to me on LinkedIn.</p>
+<p align="left">Senior Backend Engineer with over 5 years of experience specializing in secure, high-performance, multi-tenant SaaS ecosystems
+and distributed system design. Expert in bridging web stability with AI intensity by engineering Python-based micro-services to
+offload resource-intensive AI/ML workloads from core Laravel environments.</p>
 
 ###
 
@@ -33,14 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
