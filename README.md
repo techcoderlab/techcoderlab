@@ -18,7 +18,7 @@ I am a **Senior Backend Engineer** with 5+ years of experience in architecting s
 ---
 
 ### 🧪 Featured Projects
-- **[Review Guard Shield](https://github.com/your-username/review-guard):** A proprietary reputation management SaaS using PHP, Python, and Google App Script to filter and automate GMB feedback loops.
+- **[Review Guard Shield](https://review.blueriosystems.com):** A proprietary reputation management SaaS using PHP, Python, and Google App Script to filter and automate GMB feedback loops.
 - **[Agency SaaS / Alumni System]:** A complex multi-tenant platform architected for scalability, featuring modular lead management and integrated AI agents.
 
 ---
@@ -43,6 +43,6 @@ I am a **Senior Backend Engineer** with 5+ years of experience in architecting s
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=techcoderlab&show_icons=true&theme=tokyonight" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcoderlab&layout=compact&theme=tokyonight" height="150" alt="languages" />
 </p>
